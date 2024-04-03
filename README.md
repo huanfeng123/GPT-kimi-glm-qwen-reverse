@@ -8,7 +8,11 @@ https://github.com/missuo/FreeGPT35
 https://github.com/aurora-develop/aurora
 
 以上两个都是GPT免登录逆向项目（暂时看到这么多）
-
+----------------------------
+疑似sunoai逆向项目：
+----------------------------
+https://github.com/SunoAI-API/Suno-API?tab=readme-ov-file
+可以用来生成音乐、歌词等，无需任何部署和设置
 ----------------------------
 下面推荐国内模型的逆向项目：
 ----------------------------
