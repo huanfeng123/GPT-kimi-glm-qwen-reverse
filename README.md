@@ -1,5 +1,5 @@
    # 大模型逆向，白嫖能手
-GPT免登录逆向，国内模型逆向（kimi ai，跃问模型ai，glm，qwen）的开源收藏帖子
+GPT免登录逆向，国内模型逆向，sunoai逆向（kimi ai，跃问模型ai，glm）的开源收藏帖子
 这是收藏项目逆向项目的集合，有推荐请联系我！
 ----------------------------
 GPT免登录逆向：
@@ -9,10 +9,14 @@ https://github.com/aurora-develop/aurora
 
 以上两个都是GPT免登录逆向项目（暂时看到这么多）
 ----------------------------
-疑似sunoai逆向项目：
+sunoai逆向项目：
 ----------------------------
 https://github.com/SunoAI-API/Suno-API?tab=readme-ov-file
 可以用来生成音乐、歌词等，无需任何部署和设置
+
+https://github.com/gcui-art/suno-api
+使用API​​调用suno.ai的音乐生成AI，并轻松集成到GPT等代理中。
+
 ----------------------------
 下面推荐国内模型的逆向项目：
 ----------------------------
