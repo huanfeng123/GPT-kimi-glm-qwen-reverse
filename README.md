@@ -4,38 +4,45 @@ GPT免登录逆向，国内模型逆向（kimi ai，跃问模型ai，glm，qwen�
 ----------------------------
 GPT免登录逆向：
 https://github.com/missuo/FreeGPT35（新开项目）
+
 https://github.com/aurora-develop/aurora（新开项目）
+
 以上两个都是GPT免登录逆向项目（暂时看到这么多）
+
 ----------------------------
 下面推荐国内模型的逆向项目：
 ----------------------------
-一个自由的API
+【Kimi Free API】
 并发数：暂无限制，有几率获得永封
 Token有效期：暂时永久
 开源地址：
-HTPS:/吉图布网/LLM-红队/基米自由派
+https://github.com/LLM-Red-Team/kimi-free-api
 在线体验：
 https://udify.app/chat/Po0F6BMJ15q5vu2P
+
 ----------------------------
-'''.'''.''
+【ChatGLM4 Free API】
 并发数：1路并发，暂无封号风险
 Token有效期：暂时永久
 开源地址：https://github.com/LLM-Red-Team/glm-free-api
 在线体验（只有一路并发）：https://udify.app/chat/Pe89TtaX3rKXM8NS
+
 ----------------------------
-一个自由的空气污染指数
+【StepChat Free API】
 并发数：2路并发，暂无封号风险
 Token有效期：暂时永久
 开源地址：https://github.com/LLM-Red-Team/step-free-api
 在线体验（只有两路并发）：https://udify.app/chat/RGqDVPHspgQgGSgf
+
 ----------------------------
-'''
+【Qwen Free API】
 并发数：5路并发，再高有几率获得时间不等的并发限制（目前最高可达8小时）
 Token有效期：至少一个月
 开源地址：https://github.com/llm-red-team/qwen-free-api
 在线体验：https://udify.app/chat/qOXzVl5kkvhQXM8r
+
 ----------------------------
-自由空气污染指数
+【Emohaa Free API】
 并发数：2路并发，暂无封号风险
 Token有效期：一天
 开源地址：https://github.com/LLM-Red-Team/emohaa-free-api
