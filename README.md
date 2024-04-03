@@ -3,9 +3,9 @@ GPT免登录逆向，国内模型逆向（kimi ai，跃问模型ai，glm，qwen�
 这是收藏项目逆向项目的集合，有推荐请联系我！
 ----------------------------
 GPT免登录逆向：
-https://github.com/missuo/FreeGPT35（新开项目）
+https://github.com/missuo/FreeGPT35
 
-https://github.com/aurora-develop/aurora（新开项目）
+https://github.com/aurora-develop/aurora
 
 以上两个都是GPT免登录逆向项目（暂时看到这么多）
 
