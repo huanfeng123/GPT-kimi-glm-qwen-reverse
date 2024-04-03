@@ -47,6 +47,7 @@ Token有效期：至少一个月
 Token有效期：一天
 开源地址：https://github.com/LLM-Red-Team/emohaa-free-api
 在线体验：https://udify.app/chat/LDgsbVTfyTQ000Oq
+
 ----------------------------
 
 标语：其实现在GPT3.5划水严重，个人感觉使用起来没有国内模型舒服！不过GPT在写代码方面确实出众！
